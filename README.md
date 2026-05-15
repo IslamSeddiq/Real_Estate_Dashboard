@@ -69,6 +69,6 @@ This dashboard helps stakeholders:
 
 # Get in Touch
 
-[Phone Number](20 1201991890)
-[Personal Website / Blog](https://www.canva.com/design/DAGeDwn60FY/xY0llUzQWp5yekWU_03X4w/edit?utm_content=DAGeDwn60FY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-[LinkedIn](https://www.linkedin.com/in/islamseddiq/)
+- [Phone Number](20 1201991890)
+- [Personal Website / Blog](https://portfolio2220.my.canva.site/)
+- [LinkedIn](https://www.linkedin.com/in/islamseddiq/)
