@@ -7,8 +7,11 @@ Hi there, I'm Islam Seddiq! 👋
 I'm a Junior Data Analyst with a passion for transforming raw data into actionable insights. I enjoy working with SQL, Python, and visualization tools like Power BI to solve real-world business problems. I have a strong growth mindset along with critical thinking and problem-solving skills. My goal is to help organizations make data-driven decisions that create meaningful impact.
 
 🔭 Worked on: Real Estate Intelligence Dashboard
+
 💻 Programming Languages: Python, SQL
+
 🌍 Human Languages: Arabic(Native), English(Fluent)
+
 📫 How to reach me: [islamseddiq17@gmail.com]
 
 ---
