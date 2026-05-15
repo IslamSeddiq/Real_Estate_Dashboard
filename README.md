@@ -9,7 +9,7 @@ I'm a Junior Data Analyst with a passion for transforming raw data into actionab
 - 🔭 Worked on: Real Estate Intelligence Dashboard
 - 💻 Programming Languages: Python, SQL
 - 🌍 Human Languages: Arabic(Native), English(Fluent)
-- 📫 How to reach me: [islamseddiq17@gmail.com]
+- 📫 How to reach me: islamseddiq17@gmail.com
 
 ---
 
