@@ -15,7 +15,7 @@ I'm a Junior Data Analyst with a passion for transforming raw data into actionab
 
 # 🧠 About Project
 
-This project is an interactive **Real Estate Intelligence Dashboard** built using Power BI to analyze property market data and support data-driven decision-making. The dashboard transforms raw real estate datasets into meaningful insights through dynamic visualizations, KPIs, and advanced DAX calculations.
+This project is an interactive **Real Estate Intelligence Dashboard** built using Power BI to analyze property market data and support data-driven decision-making. The dashboard transforms raw real estate datasets into meaningful insights through dynamic visualizations, KPIs, advanced DAX calculations, and interactive Bookmarks feature enabling users to switch between different analytical views and dashboard perspectives seamlessly.
 
 ---
 
@@ -50,6 +50,7 @@ This project is an interactive **Real Estate Intelligence Dashboard** built usin
 * Property age segmentation
 * Furnishing status analysis
 * Amenity insights and composition metrics
+* Interactive bookmark navigation for seamless switching between dashboard views
 * Interactive slicers and filters for exploration
 * Modern and responsive dashboard UI
 
