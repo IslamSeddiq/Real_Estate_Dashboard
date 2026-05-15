@@ -67,8 +67,8 @@ This dashboard helps stakeholders:
 
 ---
 
-# Get in Touch
+# 📬Get in Touch
 
 - [Phone Number](20 1201991890)
-- [Personal Website / Blog](https://portfolio2220.my.canva.site/)
+- [Portfolio](https://portfolio2220.my.canva.site/)
 - [LinkedIn](https://www.linkedin.com/in/islamseddiq/)
