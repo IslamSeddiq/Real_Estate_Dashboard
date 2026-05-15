@@ -1,6 +1,6 @@
 # 🏡 Real Estate Intelligence Dashboard
 
-Hi there, I'm Islam Seddiq! 👋
+# Hi there, I'm Islam Seddiq! 👋
 
 ## About Me 🚀
 
